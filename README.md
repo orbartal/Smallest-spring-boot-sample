@@ -18,11 +18,14 @@ And that it. This is a working spring program that create both a server and a cl
 ##How to run it
 
 You can run it from eclipse IDE or from the command line. You can search google for menual on each step. They are generic as posiable. 
-1. Download dependencies using maven. Run maven clean install. 
-2. Compile the java code.
-3. Run the java application. 
-4. Open a browser and go to url: http://localhost:8011/.
-5. If the server is working you should get an empty page with the text "Hello World".
+1. Download the project using git.
+2. If your using an IDE you need to import the project to your IDE. For example inf eclipse:
+File -> import-> maven -> maven project.
+3. Download dependencies using maven. Run maven clean install. 
+4. Compile the java code.
+5. Run the java application. 
+6. Open a browser and go to url: http://localhost:8011/.
+7. If the server is working you should get an empty page with the text "Hello World".
 
 That it. The server is runnig and it as send a message to the client you opend in the browser.
 
