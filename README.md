@@ -19,7 +19,7 @@ And that it. This is a working spring program that create both a server and a cl
 
 You can run it from eclipse IDE or from the command line. You can search google for menual on each step. They are generic as posiable. 
 1. Download the project using git.
-2. If your using an IDE you need to import the project to your IDE. For example inf eclipse:
+2. If your using an IDE you need to import the project to your IDE. For example in eclipse:
 File -> import-> maven -> maven project.
 3. Download dependencies using maven. Run maven clean install. 
 4. Compile the java code.
